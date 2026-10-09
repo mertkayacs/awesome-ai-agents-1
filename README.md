@@ -3486,7 +3486,7 @@ Here's an awesome list of AI agents:
 
 ### reevesagents
 <div><a href="https://github.com/mertkayacs/reevesagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mertkayacs/reevesagents"><img src="https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mertkayacs">@mertkayacs</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mertkayacs">@mertkayacs</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/729">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/729">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mertkayacs">@mertkayacs</a></p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>reevesagents is an open-source workspace that runs AI coding CLIs such as Claude Code, Codex, Kimi, OpenCode, Qwen and Hermes side by side, each in its own tmux window, controlled from a terminal UI, a local web UI, a command line or an MCP server.</p>
